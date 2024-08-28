@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946357188774",
+    "project_id": "project-the-amazing-app-12fc1",
+    "storage_bucket": "project-the-amazing-app-12fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946357188774:android:a99263d7a299ad526b1c67",
+        "android_client_info": {
+          "package_name": "com.example.projecttaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946357188774-anrrqg3ocsuk0hfgch2fde8rj1jjbtj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projecttaa",
+            "certificate_hash": "ddf0f936a9e209094845c4f44c33a8f24e63d7b3"
+          }
+        },
+        {
+          "client_id": "946357188774-kihro2sm9imsevehl32g7dppcdt6p62p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzYZbWibKlepSY8Mh38PmSuMsCtCCWVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946357188774-kihro2sm9imsevehl32g7dppcdt6p62p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
